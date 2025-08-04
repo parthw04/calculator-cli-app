@@ -29,7 +29,7 @@ This project is part of the **Python Developer Internship** task from **Elevate 
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/calculator-cli-app.git
+   git clone https://github.com/parthw04/calculator-cli-app.git
    cd calculator-cli-app
 
 2. **Run the calculator script:**
