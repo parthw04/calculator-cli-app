@@ -38,6 +38,8 @@ This project is part of the **Python Developer Internship** task from **Elevate 
    git clone https://github.com/YOUR_USERNAME/calculator-cli-app.git
    cd calculator-cli-app
 
+---
+
 📣 Outcome
 A clean and modular CLI calculator implemented using core Python concepts like functions, loops, and conditionals. Designed with user-friendliness and code readability in mind.
 
